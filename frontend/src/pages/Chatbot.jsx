@@ -8,7 +8,7 @@ function ChatBot() {
     const sendMessage = async () => {
         if (!message.trim()) return
 
-        const userTextInput = message
+        const userTextInput = message    
         setMessage("")
         setLoading(true)
 
