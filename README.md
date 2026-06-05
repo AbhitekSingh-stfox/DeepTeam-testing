@@ -8,6 +8,7 @@ A full-stack, AI-powered chatbot application featuring a responsive **React (Vit
 
 Based on the repository layout, the project is divided into the following directories:
 
+```text
 Chatbot/
 ├── backend/            # Python server, APIs, and data models
 │   ├── main.py        # Main backend application entry point
