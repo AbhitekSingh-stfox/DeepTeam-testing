@@ -1,4 +1,4 @@
-# DeepTeam Chatbot 🤖
+# Chatbot 🤖
 
 A full-stack, AI-powered chatbot application featuring a responsive **React (Vite)** frontend, a robust **Python** backend, and integrated **audio processing capabilities** for voice interactions.
 
